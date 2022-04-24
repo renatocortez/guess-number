@@ -1,2 +1,2 @@
 # guess-number
- Projeto de jogo para adivinhar número, com Html, Css e JavaScript puro. Sem frameworks.
+ Game project to guess number, with Html, Css and pure JavaScript. No frameworks.
